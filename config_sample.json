@@ -1,0 +1,16 @@
+{
+  "hosts": {
+    "server_1": {
+      "host": "74.94.xxx.xx"
+    },
+    "server_2": {
+      "host": "74.95.xxx.xx"
+    }
+  },
+  "elasticsearch": {
+    "hosts": [
+      "https://elastic:xxx.us-east-1.aws.found.io:9243"
+    ],
+    "index": "mp-ping"
+  }
+}
