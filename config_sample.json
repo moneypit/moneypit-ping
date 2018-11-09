@@ -1,4 +1,5 @@
 {
+  "location": "moneypitmine",
   "hosts": {
     "server_1": {
       "host": "74.94.xxx.xx"

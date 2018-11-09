@@ -20,6 +20,7 @@ $params = [
 ];
 
 $params['body']['timestamp'] = $now_timestamp->format(DateTime::ISO8601);
+$params['body']['location'] = $config['location'];
 
 foreach ($config['hosts'] as $k=>$v) {
 
