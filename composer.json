@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twilio/sdk": "^5.16",
+        "elasticsearch/elasticsearch": "~6.0",
+        "mrteye/gdax": "^1.2",
+        "geerlingguy/ping": "^1.1"
+    }
+}
